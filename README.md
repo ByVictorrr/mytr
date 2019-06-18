@@ -31,4 +31,5 @@ required depends on the operation desired.
 
 ## Usage
 make
+
 ./mytr [-d] 'set1' ['set2'] 
